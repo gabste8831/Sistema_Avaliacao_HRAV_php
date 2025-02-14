@@ -16,5 +16,5 @@ Este é um sistema de avaliação de atendimento desenvolvido para o Hospital Re
 
 ## Autor
 - Gabriel Steffens
-Desenvolvido como parte de um projeto acadêmico, para a matéria de Desenvolvimento Web 1
+- Desenvolvido como parte de um projeto acadêmico, para a matéria de Desenvolvimento Web 1
 
